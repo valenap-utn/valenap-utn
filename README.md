@@ -24,10 +24,14 @@ I really enjoy listening to music; I can't go a day without discovering somethin
 <h3>Other tools and technologies</h3>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white>
 </span>
+<!-- <h3>Learning</h3>
+<span>
+  <img "">  SQL , Node.js  
+</span> -->
 
 ## <b>My goals<b>
 I want to keep expanding my knowledge in back-end development and improve my full-stack skills. I also want to start experimenting with APIs and dive deeper into software architecture.
