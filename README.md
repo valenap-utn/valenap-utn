@@ -11,6 +11,8 @@ In my free time, I love to start new projects, both to learn something new and j
 I really enjoy listening to music; I can't go a day without discovering something new (or old). Also, if I have the time, I love watching movies, especially the old ones, those that have something special about them~
 
 ## My Skills include
+<img width="415px" align="right" alt="subjects-graph-frba-k23-abril-2025" src="https://github.com/user-attachments/assets/4472a1cf-69e1-4f81-ae1f-c610bc6ca92f" />
+
 <h3>Languages</h3> 
 <span>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -28,6 +30,7 @@ I really enjoy listening to music; I can't go a day without discovering somethin
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
 </span>
+
 <!-- <h3>Learning</h3>
 <span>
   <img "">  SQL , Node.js  
