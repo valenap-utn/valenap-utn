@@ -11,7 +11,7 @@ In my free time, I love to start new projects, both to learn something new and j
 I really enjoy listening to music; I can't go a day without discovering something new (or old). Also, if I have the time, I love watching movies, especially the old ones, those that have something special about them~
 
 ## My Skills include
-<img width="415px" align="right" alt="subjects-graph-frba-k23-abril-2025" src="https://github.com/user-attachments/assets/4472a1cf-69e1-4f81-ae1f-c610bc6ca92f" />
+<img width="400px" align="right" alt="subjects-graph-frba-k23-abril-2025" src="https://github.com/user-attachments/assets/4472a1cf-69e1-4f81-ae1f-c610bc6ca92f" />
 
 <h3>Languages</h3> 
 <span>
